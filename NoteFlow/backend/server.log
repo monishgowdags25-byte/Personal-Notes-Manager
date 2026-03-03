@@ -1,0 +1,86 @@
+[2026-01-12T17:36:19.355Z] POST /login
+[2026-01-12T17:36:19.362Z] Login attempt for email: preksha@gmail.com
+[2026-01-12T17:36:19.497Z] Login successful for email: preksha@gmail.com
+[2026-01-12T17:36:19.518Z] GET /get-user
+[2026-01-12T17:36:19.788Z] GET /get-user
+[2026-01-12T17:36:19.808Z] GET /get-all-notes
+[2026-01-12T17:36:19.813Z] GET ALL NOTES REQUEST RECEIVED
+[2026-01-12T17:36:19.815Z] Starting Note Query for user 68d4cbdffee468d27a6291a3
+[2026-01-12T17:36:19.824Z] GET /get-all-sticky-notes
+[2026-01-12T17:36:19.886Z] GET /get-user
+[2026-01-12T17:36:19.925Z] GET /get-all-sticky-notes
+[2026-01-12T17:36:19.973Z] Query Finished in 156ms. Retrieved 1 notes for user 68d4cbdffee468d27a6291a3
+[2026-01-12T17:36:19.977Z] GET /get-all-notes
+[2026-01-12T17:36:19.983Z] GET ALL NOTES REQUEST RECEIVED
+[2026-01-12T17:36:19.984Z] Starting Note Query for user 68d4cbdffee468d27a6291a3
+[2026-01-12T17:36:20.088Z] Query Finished in 103ms. Retrieved 1 notes for user 68d4cbdffee468d27a6291a3
+[2026-01-12T17:36:22.603Z] PUT /update-note-pinned/6965087b9962dccdeaab6d79
+[2026-01-12T17:36:23.329Z] PUT /update-note-pinned/6965087b9962dccdeaab6d79
+[2026-01-12T17:36:24.178Z] GET /get-note/6965087b9962dccdeaab6d79
+[2026-01-12T17:36:42.538Z] PUT /edit-note/6965087b9962dccdeaab6d79
+[2026-01-12T17:36:51.607Z] PUT /edit-note/6965087b9962dccdeaab6d79
+[2026-01-12T17:36:52.720Z] GET /get-all-notes
+[2026-01-12T17:36:52.724Z] GET ALL NOTES REQUEST RECEIVED
+[2026-01-12T17:36:52.726Z] Starting Note Query for user 68d4cbdffee468d27a6291a3
+[2026-01-12T17:36:52.840Z] Query Finished in 113ms. Retrieved 1 notes for user 68d4cbdffee468d27a6291a3
+[2026-01-12T17:36:58.232Z] GET /get-user
+[2026-01-12T17:36:58.239Z] GET /get-flow-items
+[2026-01-12T17:36:58.334Z] GET /get-user
+[2026-01-12T17:36:59.038Z] GET /get-flow-items
+[2026-01-12T17:37:01.563Z] GET /get-user
+[2026-01-12T17:37:01.702Z] GET /get-user
+[2026-01-12T17:37:03.243Z] GET /get-user
+[2026-01-12T17:37:03.249Z] GET /get-all-notes
+[2026-01-12T17:37:03.253Z] GET ALL NOTES REQUEST RECEIVED
+[2026-01-12T17:37:03.255Z] Starting Note Query for user 68d4cbdffee468d27a6291a3
+[2026-01-12T17:37:03.261Z] GET /get-all-sticky-notes
+[2026-01-12T17:37:03.370Z] GET /get-user
+[2026-01-12T17:37:03.444Z] Query Finished in 187ms. Retrieved 1 notes for user 68d4cbdffee468d27a6291a3
+[2026-01-12T17:37:03.448Z] GET /get-all-notes
+[2026-01-12T17:37:03.452Z] GET ALL NOTES REQUEST RECEIVED
+[2026-01-12T17:37:03.454Z] Starting Note Query for user 68d4cbdffee468d27a6291a3
+[2026-01-12T17:37:03.646Z] Query Finished in 191ms. Retrieved 1 notes for user 68d4cbdffee468d27a6291a3
+[2026-01-12T17:37:03.730Z] GET /get-all-notes
+[2026-01-12T17:37:03.734Z] GET ALL NOTES REQUEST RECEIVED
+[2026-01-12T17:37:03.735Z] Starting Note Query for user 68d4cbdffee468d27a6291a3
+[2026-01-12T17:37:03.860Z] Query Finished in 123ms. Retrieved 1 notes for user 68d4cbdffee468d27a6291a3
+[2026-01-12T17:37:04.292Z] GET /get-all-sticky-notes
+[2026-01-12T17:37:24.889Z] Starting server...
+[2026-01-12T17:37:24.900Z] Attempting to connect to MongoDB...
+[2026-01-12T17:37:24.949Z] Server is running on port 5007
+[2026-01-12T17:37:26.424Z] Connected to MongoDB
+[2026-01-12T17:37:26.600Z] Notes indexes verified/created
+[2026-01-12T17:37:26.887Z] Total notes in DB: 1
+[2026-01-12T17:37:26.888Z] userId schema type: String
+[2026-01-12T17:37:26.890Z] Connected to database: test
+[2026-01-12T17:45:19.940Z] Starting server...
+[2026-01-12T17:45:19.943Z] Attempting to connect to MongoDB...
+[2026-01-12T17:45:19.985Z] Server is running on port 5007
+[2026-01-12T17:45:21.345Z] Connected to MongoDB
+[2026-01-12T17:45:21.462Z] Notes indexes verified/created
+[2026-01-12T17:45:21.723Z] Total notes in DB: 1
+[2026-01-12T17:45:21.724Z] userId schema type: String
+[2026-01-12T17:45:21.725Z] Connected to database: test
+[2026-02-23T16:56:33.610Z] Starting server...
+[2026-02-23T16:56:33.614Z] Attempting to connect to MongoDB...
+[2026-02-23T16:56:33.680Z] Server is running on port 5007
+[2026-02-23T16:56:33.804Z] Could not connect to MongoDB: querySrv ENOTFOUND _mongodb._tcp.noteflow.5l9jkdr.mongodb.net
+[2026-02-23T16:56:33.806Z] Check your IP Whitelist on MongoDB Atlas or your internet connection.
+[2026-02-23T17:00:48.854Z] POST /signup
+[2026-02-23T17:00:48.901Z] Signup attempt for email: geethamonishivu@gmail.com
+[2026-02-23T17:00:59.071Z] Signup error: Operation `users.findOne()` buffering timed out after 10000ms
+[2026-02-23T17:01:15.366Z] GET /get-user
+[2026-02-23T17:01:15.474Z] GET /get-user
+[2026-02-23T17:01:15.492Z] GET /get-all-notes
+[2026-02-23T17:01:15.548Z] GET /get-all-sticky-notes
+[2026-02-23T17:01:15.576Z] GET /get-all-notes
+[2026-02-23T17:01:15.586Z] GET /get-all-sticky-notes
+[2026-02-23T17:01:24.636Z] GET /get-user
+[2026-02-23T17:01:24.697Z] GET /get-all-notes
+[2026-02-23T17:01:24.730Z] GET /get-all-sticky-notes
+[2026-02-23T17:01:24.874Z] GET /get-user
+[2026-02-23T17:01:24.946Z] GET /get-all-notes
+[2026-02-23T17:01:25.035Z] GET /get-all-sticky-notes
+[2026-02-23T17:02:31.547Z] POST /login
+[2026-02-23T17:02:31.551Z] Login attempt for email: geethamonishivu@gmail.com
+[2026-02-23T17:02:41.587Z] Login error: Operation `users.findOne()` buffering timed out after 10000ms
