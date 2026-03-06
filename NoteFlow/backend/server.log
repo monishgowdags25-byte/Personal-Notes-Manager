@@ -84,3 +84,8 @@
 [2026-02-23T17:02:31.547Z] POST /login
 [2026-02-23T17:02:31.551Z] Login attempt for email: geethamonishivu@gmail.com
 [2026-02-23T17:02:41.587Z] Login error: Operation `users.findOne()` buffering timed out after 10000ms
+[2026-03-06T14:50:20.214Z] Starting server...
+[2026-03-06T14:50:20.218Z] Attempting to connect to MongoDB...
+[2026-03-06T14:50:20.295Z] Server is running on port 5007
+[2026-03-06T14:50:20.342Z] Could not connect to MongoDB: querySrv ENOTFOUND _mongodb._tcp.noteflow.5l9jkdr.mongodb.net
+[2026-03-06T14:50:20.344Z] Check your IP Whitelist on MongoDB Atlas or your internet connection.
